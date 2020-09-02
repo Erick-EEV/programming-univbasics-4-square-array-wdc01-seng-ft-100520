@@ -1,4 +1,3 @@
-
 def square_array(array)
   result = Array.new(array.size)
   i = 0
